@@ -13,11 +13,13 @@
 
 样例输入 
 
-AC[3FUN]
+![image](https://github.com/Mulachy/-P1928-/assets/139098098/7ce3a3f7-9b50-46af-8d78-7143a7bc2a12)
 
 样例输出
 
-ACFUNFUNFUN
+![image](https://github.com/Mulachy/-P1928-/assets/139098098/d5640d2e-972d-4a6e-b677-56e095f259ce)
+
+
 # 原题解思路（来自云浅知处）
   在此附上题解链接：www.luogu.com.cn/article/ck244idp
   不多赘述
